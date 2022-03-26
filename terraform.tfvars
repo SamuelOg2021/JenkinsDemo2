@@ -1,0 +1,5 @@
+Subnet_loaction               = "us-east-1a"
+network_security_group_name   = "allow_web_traffic"
+aws_instance_type             = "t2.micro"
+aws_instance_location         = "us-east-1a"
+ec2_ami_type                  = "ami-04505e74c0741db8d"
